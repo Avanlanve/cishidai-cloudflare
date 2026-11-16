@@ -1,6 +1,5 @@
 {
-  "name": "cishidai-cloudflare"
-"main"= "worker.js"
-"compatibility_date"= "2026-11-16"
-
+  "name": "cishidai-cloudflare",
+  "main": "worker.js",
+  "compatibility_date": "2026-11-16"
 }
