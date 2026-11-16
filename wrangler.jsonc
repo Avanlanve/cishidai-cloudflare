@@ -1,5 +1,5 @@
 {
   "name": "cishidai-cloudflare",
-  "main": "worker.js",
+  "main": "index.js",
   "compatibility_date": "2026-11-16"
 }
